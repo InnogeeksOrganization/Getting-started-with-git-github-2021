@@ -1,0 +1,15 @@
+I am Anshul Nigam,  I was born and raised in Lucknow. I did my schooling from Lucknow only and completed my 12th in 2019. 
+Right now I am in KIET Groups of institutions, Ghaziabad.
+
+I know to code in C, C++, Python. I also know how to flash custom ROMs on smartphone devices and work with them.
+
+I like to explore things. Be it anything related to technology and I am interested. I am also in a club named Innogeeks at my college, where I am exploring IoT domain.
+
+You can get to me at:
+ Facebook: /nig.anshul
+ Instagram: @_anshul.01
+ Twitter: @nigam_anshul
+ LinkedIn: www.linkedin.com/in/anshul-n-b09a76b2
+ GitHub: /Anshul-13J
+
+I made a black-jack game on Python, Banking System on C++ and Medical store management system on C.
